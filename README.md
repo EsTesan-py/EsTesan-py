@@ -9,10 +9,22 @@
 </ul>
 <ul>
   ## 🌐 Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html5,css,js" />
+  </a>
+</p>
 ## 🧠 Backend y Lenguajes
-https://skillicons.dev/icons?i=py,java
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java" />
+  </a>
+</p>
 ## 🔧 Otros
-https://skillicons.dev/icons?i=git,github
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
 </ul>
 
