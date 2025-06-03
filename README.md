@@ -1,30 +1,33 @@
-## 👋 ¡Hi! I am Estefano
-### 🧠 Estudiante de Ingeniería en Sistemas | Apasionado por la IA
-<ul>
-- 🔭 Actualmente trabajando en: Una máquina virtual en Python
-- 🌱 Aprendiendo: Frontend (HTML, CSS, JavaScript)
-- 🤖 Meta: Convertirme en ingeniero en Inteligencia Artificial
-- 🛠️ Tecnologías: Python, Git, React (en progreso)
-- 📫 Contacto: estefanotesan77@gmail.com | [LinkedIn](https://www.linkedin.com/in/estefano-tesan-40722331a/)
-</ul>
-<ul>
-  ## 🌐 Frontend
+<h1 align="center">Hi there 👋 I'm Estefano Tesan</h1>
+<h3 align="center">aka EsTesan — 🇦🇷 Argentinian | 22 years old | Future A.I. Engineer</h3>
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html5,css,js" />
-  </a>
+  <em>Computer Engineering student at UTN Villa María</em> <br>
+  <em>Currently self-studying Artificial Intelligence and Full Stack Development</em>
 </p>
-## 🧠 Backend y Lenguajes
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java" />
-  </a>
+<p>
+  🧠 I study Systems Engineering @ UTN Villa María.
+
+🤖 I’m pursuing my dream to become an Artificial Intelligence Engineer.
+
+🌐 Self-taught and deeply curious about machine learning, neural networks, and generative AIs.
+
+💻 I code in Java, Python, HTML/CSS, and JavaScript.
+
+🌍 I speak Spanish (native) and English (advanced).
 </p>
-## 🔧 Otros
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
-  </a>
-</p>
-</ul>
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode&theme=dark" /> </p>
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EsTesan-py&show_icons=true&theme=tokyonight" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsTesan-py&layout=compact&theme=tokyonight" /> </p>
+📫 Let's Connect
+<p align="center"> <a href="mailto:estefanotesan77@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/estefano-tesan-40722331a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/EsTesan-py"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
+---
+
+### 🚀 About Me
+
+```bash
+$ whoami
+> EsTesan, passionate learner, systems engineering student, and future A.I. engineer.
+
 
