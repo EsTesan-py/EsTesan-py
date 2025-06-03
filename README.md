@@ -9,7 +9,7 @@
 </ul>
 <ul>
   ## 🌐 Frontend
-https://skillicons.dev/icons?i=js,html,css
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 ## 🧠 Backend y Lenguajes
 https://skillicons.dev/icons?i=py,java
 ## 🔧 Otros
