@@ -30,11 +30,11 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EsTesan-py&show_icons=true&theme=tokyonight" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsTesan-py&layout=compact&theme=tokyonight" /> </p>
 📫 Let's Connect
-<p align="center"> <a href="mailto:estefanotesan77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a> 
-  <a href="https://www.linkedin.com/in/estefano-tesan-40722331a/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a> 
-  <a href="https://github.com/EsTesan-py"><img src="https://skillicons.dev/icons?i=github&theme=dark" /> owner: EsTesan-py</a> 
-  <a href="https://www.instagram.com/es.tesan/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/> @es.tesan</a>
-  <a href="https://www.discord.com"><img src="https://skillicons.dev/icons?i=discord&theme=dark"/> @esteesan</a>
+<p align="center"> <a href="mailto:estefanotesan77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a> <br>
+  <a href="https://www.linkedin.com/in/estefano-tesan-40722331a/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a> <br>
+  <a href="https://github.com/EsTesan-py"><img src="https://skillicons.dev/icons?i=github&theme=dark" /> owner: EsTesan-py</a> <br>
+  <a href="https://www.instagram.com/es.tesan/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/> @es.tesan</a> <br>
+  <a href="https://www.discord.com"><img src="https://skillicons.dev/icons?i=discord&theme=dark"/> @esteesan</a> <br>
 </p>
 
 ```bash
