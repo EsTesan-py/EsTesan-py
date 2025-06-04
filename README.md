@@ -21,7 +21,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EsTesan-py&show_icons=true&theme=tokyonight" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsTesan-py&layout=compact&theme=tokyonight" /> </p>
 📫 Let's Connect
-<p align="center"> <a href="mailto:estefanotesan77@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/estefano-tesan-40722331a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/EsTesan-py"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
+<p align="center"> <a href="mailto:estefanotesan77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a> <a href="https://www.linkedin.com/in/estefano-tesan-40722331a/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a> <a href="https://github.com/EsTesan-py"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a> <a href="https://www.instagram.com/es.tesan/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
+</p>
 ---
 
 ### 🚀 About Me
