@@ -10,7 +10,7 @@
 
 🤖 I’m pursuing my dream to become an Artificial Intelligence Engineer.
 
-🌐 Self-taught and deeply curious about machine learning, neural networks, and generative AIs.
+🌐 Self-taught and deeply curious about machine learning, neural networks, and AIs.
 
 💻 I code in Java, Python, HTML/CSS, and JavaScript.
 
