@@ -17,7 +17,12 @@
 🌍 I speak Spanish (native) and English (advanced).
 </p>
 <h3 align="center">🛠️ Tech Stack</h3>
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,vscode&theme=dark" /> </p>
+<h4> 🌐 Frontend</h4>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> </p>
+<h4> 🧠 Backend</h4>
+<p align="center"> <img src="https://skillicons.dev/icons?i=py,java&theme=dark" /> </p>
+<h4>🔧 Tools </h4>
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /> </p>
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EsTesan-py&show_icons=true&theme=tokyonight" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsTesan-py&layout=compact&theme=tokyonight" /> </p>
 📫 Let's Connect
@@ -26,6 +31,7 @@
 ---
 
 ### 🚀 About Me
+<h2>Coming soon...</h2>
 
 ```bash
 $ whoami
