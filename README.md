@@ -17,7 +17,7 @@
 🌍 I speak Spanish (native) and English (advanced).
 </p>
 <h3 align="center">🛠️ Tech Stack</h3>
-<h4> 🌐 Frontend</h4>
+<h4 align="center"> 🌐 Frontend</h4>
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /> </p>
 <h4 align="center"> 🧠 Backend</h4>
 <p align="center"> <img src="https://skillicons.dev/icons?i=py,java&theme=dark" /> </p>
