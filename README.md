@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang=es>
 <h1 align="center">Hi there 👋 I'm Estefano Tesan</h1>
 <h3 align="center">aka EsTesan — 🇦🇷 Argentinian | 22 years old | Future A.I. Engineer</h3>
 
@@ -40,5 +42,5 @@
 ```bash
 $ whoami
 > EsTesan, passionate learner, systems engineering student, and future A.I. engineer.
-
+<html>
 
