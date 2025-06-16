@@ -28,7 +28,11 @@
 <h4 align="center">🔧 Tools </h4>
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" /> </p>
 <h3 align="center">📊 GitHub Stats</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EsTesan-py&show_icons=true&theme=tokyonight" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsTesan-py&layout=compact&theme=tokyonight" /> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=EsTesan-py&theme=great-gatsby&show_icons=true&hide_border=false&count_private=true" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsTesan-py&theme=great-gatsby&hide_border=false" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsTesan-py&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact" />
+</p>
 <h3 align="center">📫 Let's Connect</h3>
 <p align="center"> <a href="mailto:estefanotesan77@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a> 
   <a href="https://www.linkedin.com/in/estefano-tesan-40722331a/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a> 
